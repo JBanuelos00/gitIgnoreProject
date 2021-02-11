@@ -1,0 +1,5 @@
+#This is how you comment
+
+#Basic files to ignore
+.DS_Store
+secrets.txt
